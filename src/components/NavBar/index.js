@@ -1,3 +1,5 @@
+import { Nav } from "react-bootstrap";
+
 export const NavBar = () => {
   return (
     <Nav

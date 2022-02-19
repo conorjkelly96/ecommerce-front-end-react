@@ -1,1 +1,3 @@
-export const Tag = () => {};
+export const Tag = () => {
+  return <div>Tag</div>;
+};

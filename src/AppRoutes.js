@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom";
-import { Category } from "./pages/Category";
 
 import { Home } from "./pages/Home";
+import { Category } from "./pages/Category";
 import { Item } from "./pages/Item";
 import { Tag } from "./pages/Tag";
 
